@@ -12,7 +12,7 @@ github_repo: "https://github.com/lcs1998/lcs1998.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Hey, I see you!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lcs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
