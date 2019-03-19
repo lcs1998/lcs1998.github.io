@@ -1,6 +1,6 @@
 # Site settings
 title: BY Blog
-SEOTitle: 成帅的博客 | BY Blog
+SEOTitle: 成帅的博客 | Lcs Blog
 header-img: img/post-bg-desk.jpg
 email: lcs1998@vip.qq.com
 description: "Every failure is leading towards success."
@@ -99,12 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
