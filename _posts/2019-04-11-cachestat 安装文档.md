@@ -34,7 +34,7 @@ sudo apt-get install -y bcc-tools libbcc-examples linux-headers-$(uname -r)
 whereis bcc
 ```
 
-![1554778901499](D:/Learn-File/大三/大三春季学期/计算机系统结构/研讨/cachestat 安装文档.assets/1554778901499.png)
+![](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554778901499.png?raw=true)
 
 ```
 cd usr/share/bcc/tools
@@ -46,7 +46,7 @@ cd usr/share/bcc/tools
  sudo ./cachestat
 ```
 
-![1554779035177](D:/Learn-File/大三/大三春季学期/计算机系统结构/研讨//cachestat 安装文档.assets/1554779035177.png)
+![](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554779035177.png?raw=true)
 
 ## 原理解析
 
