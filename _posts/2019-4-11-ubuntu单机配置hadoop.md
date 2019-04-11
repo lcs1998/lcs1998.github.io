@@ -12,6 +12,10 @@ tags:
     - hadoop
     - Ubuntu18.04
     - HDFS
+    - Java
+    - 环境配置
+    - 单机
+    - yarn
 ---
 
 # ubuntu 单机配置hadoop
@@ -28,7 +32,7 @@ tags:
 
    单击[下载地址](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html)进行下载
 
-   ![1554967199073](/media/lcs/新加卷/My-Project/lcs1998.github.io/_posts/2019-4-11-ubuntu单机配置hadoop.assets/1554967199073.png)
+   ![1554967199073](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554967199073.png?raw=true)
 
    下载之前点击 Accept License Agreement, 然后下载 jdk-12_linux-64_bin.tar.gz
 
@@ -228,7 +232,7 @@ cd /opt/hadoop-2.7.6
 
 验证，浏览器输入：<http://192.168.44.128:50070>
 
-![1554970196523](/media/lcs/新加卷/My-Project/lcs1998.github.io/_posts/2019-4-11-ubuntu单机配置hadoop.assets/1554970196523.png)
+![1554970196523](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554970196523.png?raw=true)
 
 简单的验证hadoop命令：
 
@@ -238,7 +242,7 @@ hadoop fs -mkdir /test
 
 在浏览器查看，出现如下图所示，即为成功
 
-![1554970277422](/media/lcs/新加卷/My-Project/lcs1998.github.io/_posts/2019-4-11-ubuntu单机配置hadoop.assets/1554970277422.png)
+![1554970277422](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554970277422.png?raw=true)
 
 你也可以输入以下命令上传文件到hadoop
 
@@ -309,10 +313,10 @@ cd /opt/hadoop-2.7.5
 
 浏览器查看：<http://192.168.44.128:8088>
 
-![1554970469767](/media/lcs/新加卷/My-Project/lcs1998.github.io/_posts/2019-4-11-ubuntu单机配置hadoop.assets/1554970469767.png)
+![1554970469767](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554970469767.png?raw=true)
 
 jps查看进程 
 
-![1554970498001](/media/lcs/新加卷/My-Project/lcs1998.github.io/_posts/2019-4-11-ubuntu单机配置hadoop.assets/1554970498001.png)
+![1554970498001](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554970498001.png?raw=true)
 
 输出如下所示，则表示hadoop单机模式配置成功
