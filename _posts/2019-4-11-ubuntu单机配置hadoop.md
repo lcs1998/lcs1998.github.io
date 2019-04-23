@@ -148,7 +148,7 @@ export JAVA_HOME=/usr/local/jdk-12_linux-64_bin
 
 其中的IP:192.168.44.128为虚拟机ip,不能设置为localhost，如果用localhost,后面windows上用saprk连接服务器（虚拟机）上的hive会报异常
 
-在命令行输入 ```ipconfig```查看自己的ip地址，在下面的代码中将 192.168.44.128 改为你自己的ip就可以了
+在命令行输入 ```ifconfig```查看自己的ip地址，在下面的代码中将 192.168.44.128 改为你自己的ip就可以了
 
 在命令行中输入如下命令
 
