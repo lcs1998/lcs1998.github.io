@@ -9,7 +9,7 @@ header-img: img/post-bg-ios9-web.jpeg
 catalog: true
 tags:
     - cachestat
-    - ubuntu
+    - Ubuntu
     - terminal
 ---
 
@@ -47,6 +47,4 @@ cd usr/share/bcc/tools
 ```
 
 ![](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554779035177.png?raw=true)
-
-## 原理解析
 

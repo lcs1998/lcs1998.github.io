@@ -10,7 +10,7 @@ catalog: true
 tags:
 
     - hadoop
-    - Ubuntu18.04
+    - Ubuntu
     - HDFS
     - Java
     - 环境配置
