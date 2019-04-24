@@ -9,11 +9,11 @@ catalog: true
 tags:
 
     - Python
-	- sklearn
-	- 线性拟合
-	- 显著性差异
-	- T值
-	- P值
+    - sklearn
+    - 线性拟合
+    - 显著性差异
+    - T值
+    - P值
 
 ---
 
