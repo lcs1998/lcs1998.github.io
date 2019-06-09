@@ -19,6 +19,8 @@ tags:
 
 ## 安装步骤
 
+
+
 ### 1. 打开命令行，输入以下命令
 
 ```
@@ -47,4 +49,8 @@ cd usr/share/bcc/tools
 ```
 
 ![](https://github.com/lcs1998/lcs1998.github.io/blob/master/img/1554779035177.png?raw=true)
+
+
+
+
 
