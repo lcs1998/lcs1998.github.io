@@ -5,7 +5,7 @@ title:      Number()、parseInt()与parseFloat()解析
 subtitle:   js学习笔记（1）
 date:       2019-05-21
 author:     Jacob
-header-img: img/post-bg-ios9-web.jpeg
+header-img: img/post-bg-js-version.jpg
 catalog: true
 tags:
 
