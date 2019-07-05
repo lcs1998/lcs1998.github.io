@@ -4,7 +4,7 @@ title:      Django ORM操作
 subtitle:   Django ORM
 date:       2019-07-05
 author:     Jacob
-header-img: img/post-bg-js-version.jpg
+header-img: img/post-bg-ios9-web.jpeg
 catalog: true
 tags:
 
